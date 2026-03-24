@@ -85,6 +85,14 @@ I'm a **Flutter Mobile App Developer** from **Bangladesh** focused on building *
 - ⚡ **Activity Level:** High focus on active development and commits  
 
 ---
+## 📈 Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://raw.githubusercontent.com/SaburNayem/SaburNayem/output/profile-night-rainbow.svg)
+
+</div>
+---
 
 ## 🐍 Contribution Snake
 
