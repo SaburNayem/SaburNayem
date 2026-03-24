@@ -17,13 +17,13 @@
 
 ## 💫 About Me
 
-I'm a **Flutter Mobile App Developer** from **Bangladesh**, focused on building **clean, scalable, and high-performance mobile applications**.
+I'm a **Flutter Mobile App Developer** from **Bangladesh** focused on building **clean, high-performance, and scalable mobile apps**.
 
-- 📱 Flutter & Dart Specialist  
-- ⚡ Clean UI + Smooth Animations  
-- 🔥 Firebase, Supabase, REST APIs  
-- 🧠 Learning Backend (Node.js, Express)  
-- 🎯 Goal: Become a Full-Stack Developer  
+- 📱 Flutter & Dart specialist
+- ⚡ Clean UI + smooth animations
+- 🔥 Firebase, Supabase, REST APIs
+- 🧠 Learning Backend (Node.js, Express)
+- 🎯 Goal: Become a Full-Stack Developer
 
 ---
 
@@ -47,24 +47,24 @@ I'm a **Flutter Mobile App Developer** from **Bangladesh**, focused on building 
 ## 🚀 Featured Projects
 
 ### 📱 Watch Puzzle App
-- Daily puzzle system  
-- Leaderboard system  
-- Multiple difficulty levels  
-- Premium UI/UX  
+- Daily puzzle system
+- Leaderboard
+- Multiple difficulty levels
+- Premium clean UI
 
 ### 📊 Sports Betting Research App (MVP)
-- Game analysis dashboard  
-- Paper betting system  
-- ROI & profit tracking  
+- Game analysis dashboard
+- Paper betting system
+- ROI, profit, stats tracking
 
 ### 🌐 Portfolio Website
-- Animated dark theme  
-- Interactive UI (lamp concept)  
-- React-based frontend  
+- Animated dark theme
+- Interactive lamp concept
+- React-based frontend
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Contribution Analytics
 
 <div align="center">
 
@@ -78,11 +78,39 @@ I'm a **Flutter Mobile App Developer** from **Bangladesh**, focused on building 
 
 ---
 
+## 📈 Contribution Insights
+
+- 🔢 **Total Contributions:** Visible in graphs below
+- 📊 **Consistency:** Based on streak and activity
+- ⚡ **Activity Level:** Focused on active development and commits
+
+---
+
+## 📈 3D Activity Graph
+
+<div align="center">
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaburNayem&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-![Snake animation](https://github.com/SaburNayem/SaburNayem/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/SaburNayem/SaburNayem/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -90,28 +118,28 @@ I'm a **Flutter Mobile App Developer** from **Bangladesh**, focused on building 
 
 ## 🧠 Currently Learning
 
-- Backend Architecture  
-- Node.js / Express  
-- Database Design  
-- Scalable Systems  
+- Backend Architecture
+- Node.js / Express
+- Database Design
+- Scalable systems
 
 ---
 
-## 🌟 Focus Areas
+## 🌟 What I Focus On
 
-- Clean & modern mobile UI  
-- Smooth animations  
-- Real-time systems  
-- Scalable Flutter architecture  
-- Performance optimization  
+- Clean and modern mobile UI
+- Smooth animations and interactions
+- Real-time app systems
+- Scalable Flutter architecture
+- Performance optimization
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: mdsabur9991@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME  
-- 🌐 Portfolio: https://your-portfolio-link.com  
+- 📧 Email: mdsabur9991@email.com
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- 🌐 Portfolio: https://your-portfolio-link.com
 
 ---
 
